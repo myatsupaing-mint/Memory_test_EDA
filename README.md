@@ -46,7 +46,6 @@ The dataset contains:
 - Calculated memory improvement for each participant.  
 
 ### Exploratory Data Analysis (EDA)  
-- Visualized distributions of key variables (`age`, scores, dosages).  
 - Explored group-wise statistics for memory scores and improvements.  
 - Identified trends in drug and dosage effects on memory improvement.  
 
@@ -55,6 +54,3 @@ The dataset contains:
 - Analyzed the effects of dosage levels.  
 - Compared results between Happy and Sad groups.  
 
-### Visualizations  
-- Histograms, scatter plots, and box plots for variable relationships.  
-- Bar plots and line plots for trends in memory improvement.  
