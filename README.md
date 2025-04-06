@@ -54,3 +54,8 @@ The dataset contains:
 - Analyzed the effects of dosage levels.  
 - Compared results between Happy and Sad groups.  
 
+### Key Insights
+- Overall, Drug A is the most effective across both groups (Happy and Sad), with significant positive improvements.
+- Drug T and S tend to be less effective, and their effectiveness varies with dosage, especially with outliers in their data.
+- The Sad group tends to have slightly higher average memory improvement compared to the Happy group.
+- Memory improvement trends are more consistent for Drug A, whereas for Drugs S and T, improvements are more dosage-dependent and show more fluctuation.
